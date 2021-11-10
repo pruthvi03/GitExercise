@@ -13,3 +13,7 @@ git add .  <br>
 git status <br>
 git commit -m "Write your commit message" <br>
 git push -u origin main <br>
+
+* Pull command <br>
+__________________________________________ <br>
+git pull  <br>
