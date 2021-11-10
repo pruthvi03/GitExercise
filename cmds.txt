@@ -1,6 +1,6 @@
 git init
 git add . 
 git status
-git commit -m "Write your commit message"
+git commit -m "Write your commit message 5678910"
 git branch -M main
 git push -u origin main
