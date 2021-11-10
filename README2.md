@@ -19,3 +19,10 @@ git push -u origin main <br>
 * Pull command <br>
 __________________________________________ <br>
 git pull  <br>
+
+* branch command(list, create, switch, push) <br>
+__________________________________________ <br>
+git branch  <br>
+git branch new-branch <br>
+git checkout new-branch <br>
+git push origin new-branch <br>
