@@ -37,6 +37,6 @@ git push origin main <br>
 
 * Revert to specific commit in git and github <br>
 __________________________________________ <br>
-git log  (To get commit id)<br>
+git log --reflog  (To get commit id)<br>
 git reset --hard commitId (Give commitId from where you want to continue)<br>
 git push -f origin branchName (Done)<br>
