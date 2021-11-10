@@ -1,8 +1,0 @@
-git init
-git add . 
-git status
-git commit -m "Write your commit message 1234"
-git branch -M main
-git push -u origin main
-
-Pull this line from main branch to new-branch
