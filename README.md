@@ -16,13 +16,19 @@ git status <br>
 git commit -m "Write your commit message" <br>
 git push -u origin main <br>
 
-* Pull command <br>
+* Pull changes from github <br>
 __________________________________________ <br>
 git pull  <br>
 
-* branch <br>
+* branch (list, create, change, update) <br>
 __________________________________________ <br>
 git branch  <br>
 git branch new-branch <br>
 git checkout new-branch <br>
 git push origin new-branch <br>
+
+* Get changes from one branch to another branch <br>
+__________________________________________ <br>
+git checkout main <br>
+git pull origin new-branch <br>
+git push origin main <br>
