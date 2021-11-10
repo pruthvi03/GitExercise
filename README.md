@@ -1,6 +1,6 @@
-# GitExercise
+# GitCheatSheet
 
-* Initial commands <br>
+* Initial commands to push first commit<br>
 __________________________________________ <br>
 git init <br>
 git add .  <br>
