@@ -26,7 +26,6 @@ git branch  <br>
 git branch new-branch <br>
 git checkout new-branch <br>
 git push origin new-branch <br>
-
 git push -d origin branchname  (deletes locally) <br> 
 git branch -d branchname  (deletes remote branch) <br>
 
